@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Luis (ItsLuis0916)<br>Im a 14 year old passionate Minecraft developer who loves creating custom plugins!<br>Always open to new projects!<br><br>Portfolio: https://itsluis0916.github.io/itsluis-portfolio/
+Hi 👋 I'm Luis (ItsLuis0916)<br>Im a 14 year old passionate Minecraft developer who loves creating custom plugins!<br>Always open to new projects!<br><br>Portfolio: https://itsluis0916.github.io/Portfolio/
 
 
 # 💻 Tech Stack:
