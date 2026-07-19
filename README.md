@@ -10,7 +10,7 @@
 
 14 y/o · Founder of Async Studios · Plugins & server setups
 
-[`Portfolio`](https://asyncstudios.online/itsluis/) · [`Discord`](https://discord.gg/gxC9N6FpQ5) · [`Contact`](https://itsluis.netlify.app/#contact)
+[`Portfolio`](https://asyncstudios.online/itsluis/) · [`Discord`](https://discord.gg/qn3QpmbAJv)
 
 <br>
 
