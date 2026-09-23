@@ -8,7 +8,7 @@
 
 **Minecraft Plugin Developer** · CPvP · Java · Folia
 
-14 y/o · Founder of Async Studios · Plugins & server setups
+15 y/o · Founder of Async Studios · Plugins & server setups
 
 [`Portfolio`](https://asyncstudios.online/itsluis/) · [`Discord`](https://discord.gg/qn3QpmbAJv)
 
