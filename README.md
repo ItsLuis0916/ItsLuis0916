@@ -1,16 +1,16 @@
 <div align="center">
 
-<a href="https://itsluis.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1500&color=39D353&width=450&height=45&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Sleep+is+for+the+weak;Building+something..." alt="Typing animation"/>
+<a href="https://asyncstudios.online/itsluis/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1500&color=39D353&width=450&height=45&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Building+something..." alt="Typing animation"/>
 </a>
 
 # ItsLuis
 
-**Minecraft Plugin Developer** · CPvP · Java · Folia
+**Minecraft Plugin Developer** · Java · Folia · Async
 
 15 y/o · Founder of Async Studios · Plugins & server setups
 
-[`Portfolio`](https://asyncstudios.online/itsluis/) · [`Discord`](https://discord.gg/qn3QpmbAJv)
+[`Portfolio`](https://asyncstudios.online/itsluis/) · [`Discord`](https://discord.com/users/1057815253532033124)
 
 <br>
 
